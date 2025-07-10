@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/arthurpansera">
-    <img src="https://github-readme-stats.vercel.app/api?username=arthurpansera&hide=prs,issues&show_icons=true&include_all_commits=true&locale=pt-br&theme=transparent" style="height: 170px; margin-right: 30%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpansera&layout=compact&theme=transparent&locale=pt-br" style="height: 170px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arthurpansera&hide=prs,issues&show_icons=true&include_all_commits=true&locale=pt-br&theme=transparent" style="height: 140px; margin-right: 30%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpansera&layout=compact&theme=transparent&locale=pt-br" style="height: 140px;" />
   </a>
 </div>
 
