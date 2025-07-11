@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/arthurpansera">
-    <img src="https://github-readme-stats.vercel.app/api?username=arthurpansera&hide=prs,issues&show_icons=true&include_all_commits=true&locale=pt-br&theme=transparent&custom_title=Estatísticas+do+GitHub+de+Arthur+Pansera&cache_seconds=60" style="height:160px; margin-right:30%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpansera&layout=compact&theme=transparent&locale=pt-br&cache_seconds=60" style="height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arthurpansera&hide=prs,issues&show_icons=true&include_all_commits=true&locale=pt-br&theme=transparent&custom_title=Estatísticas+do+GitHub+de+Arthur+Pansera&cache_seconds=45" style="height:160px; margin-right:30%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpansera&layout=compact&theme=transparent&locale=pt-br&cache_seconds=45" style="height: 160px;" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 
 ### Ferramentas
 <a href="https://github.com/arthurpansera" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux,figma,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,figma,linux,arduino,firebase,idea" />
 </a>
 
 ##
