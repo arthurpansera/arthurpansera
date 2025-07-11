@@ -20,9 +20,14 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tecnologias que uso
 
-### Linguagens de Programação
+### Front-end
 <a href="https://github.com/arthurpansera" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=py,html,css,php,js,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+
+### Back-end
+<a href="https://github.com/arthurpansera" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=py,php,java,cpp" />
 </a>
 
 ### Ferramentas
