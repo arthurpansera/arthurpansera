@@ -32,7 +32,7 @@
 
 ### Ferramentas
 <a href="https://github.com/arthurpansera" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux,intellij" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux,figma,idea" />
 </a>
 
 ##
