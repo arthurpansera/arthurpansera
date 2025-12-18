@@ -2,7 +2,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Um pouco sobre mim
 
-- Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Paraná (PUCPR), atualmente no 4º período. 
+- Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Paraná (PUCPR), atualmente no 5º período. 
 - Tenho grande interesse em desenvolvimento de software, especialmente em criar soluções inovadoras, eficientes e que gerem valor real aos usuários.
 - Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos práticos, aprender com profissionais experientes e contribuir ativamente em projetos desafiadores, visando meu crescimento profissional e pessoal.
 - Além da programação, sou apaixonado por jogos, música e esportes — hobbies que me ajudam a manter o equilíbrio e a disciplina no dia a dia.
