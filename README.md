@@ -17,6 +17,10 @@
   </a>
 </div>
 
+![Stats](./stats/stats.svg)
+![Top Languages](./stats/top-langs.svg)
+![Pinned](./stats/pin-arthurpansera.svg)
+
 ##
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tecnologias que uso
