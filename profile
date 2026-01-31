@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -35,8 +35,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=arthurpansera&repo=arthurpansera
+          path: profile/pin-arthurpansera.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
