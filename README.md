@@ -17,9 +17,13 @@
   </a>
 </div>
 
+<div align="center">
+
 ![Stats](./stats/stats.svg)
 ![Top Languages](./stats/top-langs.svg)
 ![Pinned](./stats/pin-arthurpansera.svg)
+
+</div>
 
 ##
 
